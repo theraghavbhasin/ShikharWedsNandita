@@ -10,6 +10,7 @@ body {
     width: 100%;
     height: 100%;
     font-family: 'Merriweather', serif;
+    background-image: url(../4.png);
 }
 
 html {
@@ -35,40 +36,34 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
     height: 100%;
-    padding-top: 200px;
-    background: #C9283E;
+    padding-top: 150px;
+    background: rgba(255,255,255,0.1);
 }
 
 .theDate-section {
     height: 100%;
-    padding-top: 150px;
-    background: #820333;
+    padding-top: 100px;
+    background: rgba(255,255,255,0.33);
 }
 
 .thePlace-section {
     height: 100%;
     width: 100%;
-    padding-top: 150px;
-    background: #C9283E;
+    padding-top: 100px;
+    background: rgba(255,255,255,0.1);
 }
 
 .RSVP-section {
-    height: 1000px;
-    padding-top: 150px;
-    background: #820333;
+    height: 100%;
+    padding-top: 100px;
+    background: rgba(255,255,255,0.33);
 }
 
 .weddingFooter {
-  background-color: #540032;
+  background: rgba(255,255,255,0.7);
   padding: 50px;
   text-align: center;
-  color:white;
-}
-/*section {
-  font-size: 1.9em;
-}*/
-section {
-  color:white;
+
 }
 section h1 {
   text-align: center;
