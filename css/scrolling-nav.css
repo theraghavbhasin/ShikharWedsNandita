@@ -60,6 +60,12 @@ of those sections to manage the look and feel of the site. */
     background: rgba(255,255,255,0.33);
 }
 
+.Photos-section {
+    height: 100%;
+    padding-top: 100px;
+    background: rgba(255,255,255,0.33);
+}
+
 .weddingFooter {
   background: rgba(255,255,255,0.7);
   padding: 50px;
