@@ -1,4 +1,4 @@
-# [#ShikharWedsNandita](http://wwww.shikharwedsnandita.in)
+# [#ShikharWedsNandita](http://www.shikharwedsnandita.in)
 
 ## RSVP-ing Made Simple
 
