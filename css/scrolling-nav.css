@@ -38,41 +38,51 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
     height: 100%;
-    padding-top: 150px;
-    background: rgba(255,255,255,0);
+    padding-top: 100px;
     text-align: center;
+}
+
+.theCouple-section {
+    height: auto;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    text-align: center;
+    background-color: rgba(0,0,0,0.1);
 }
 
 .theDate-section {
     height: 100%;
-    padding-top: 100px;
-    background: rgba(0,0,0,0.1);
+    padding-top: 80px;
+    background: rgba(0,0,0,0.2);
     text-align: center;
 }
 
 .thePlace-section {
-    height: 120%;
+    height: auto;
     width: 100%;
-    padding-top: 100px;
-    background: rgba(255,255,255,0.1);
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background: rgba(0,0,0,0.1);
 }
 
 .RSVP-section {
-    height: 100%;
-    padding-top: 100px;
-    background: rgba(255,255,255,0.25);
+    height: auto;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background: rgba(0,0,0,0.2);
     text-align: center;
 }
 
 .Photos-section {
-    height: 100%;
-    padding-top: 100px;
-    background: rgba(255,255,255,0.1);
+    height: auto;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background: rgba(0,0,0,0.1);
     text-align: center;
 }
 
 .weddingFooter {
-  background: rgba(0,0,0,0.1);
+  background: rgba(0,0,0,0.3);
   padding: 50px;
   text-align: center;
 
@@ -82,7 +92,7 @@ section h1 {
 }
 
 a {
-  color:#FFB033
+  color:#FFB033;
 }
 a : hover, a : visited, a : active {
   color:rgba(255, 176, 51, 0.75);
