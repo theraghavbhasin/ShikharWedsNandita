@@ -55,47 +55,47 @@ html {
 }
 
 .theCouple-section {
-    height: 100%;
+    height: auto;
     padding-top: 60px;
-    padding-bottom: 40px;
+    padding-bottom: 60px;
     text-align: center;
     background-color: rgba(0,0,0,0.1);
 }
 
 .theDate-section {
-    height: 100%;
+    height: auto;
     padding-top: 80px;
     background: rgba(0,0,0,0.2);
     text-align: center;
+    padding-bottom: 80px;
 }
 
-.thePlace-section {
-    height: 100%;
-    width: 100%;
+.theVenue-section {
+    height: auto;
     padding-top: 80px;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
     background: rgba(0,0,0,0.1);
 }
 
 .RSVP-section {
-    height: 100%;
+    height: auto;
     padding-top: 80px;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
     background: rgba(0,0,0,0.2);
     text-align: center;
 }
 
 .Photos-section {
-    height: 100%;
+    height: auto;
     padding-top: 80px;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
     background: rgba(0,0,0,0.1);
     text-align: center;
 }
 
 .weddingFooter {
   background: rgba(0,0,0,0.3);
-  padding: 50px;
+  padding: 40px;
   text-align: center;
 
 }
