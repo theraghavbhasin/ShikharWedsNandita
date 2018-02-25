@@ -11,7 +11,7 @@ body {
     height: 100%;
     font-family: 'Merriweather', serif;
 /*    background-image: url(../4.png); */
-    background-color: #733940;
+    background-color: rgb(150,80,150);
     color: white;
 }
 
