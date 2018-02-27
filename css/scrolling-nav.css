@@ -4,7 +4,14 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+
+ /*
+  Yello/Golden Reference = #FDC249
+  Purple, closest = rgb(100,30,100)
+  */
+
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
 
 
 body {
@@ -50,9 +57,16 @@ html {
 }
 
 .intro-section {
-    height: 100%;
+    height: auto;
     padding-top: 100px;
+    padding-bottom: 80px;
     text-align: center;
+}
+
+.titleBlock {
+  font-family: 'Kaushan Script', cursive;
+  color: #FDC249;
+  font-size: 5em;
 }
 
 .theCouple-section {
